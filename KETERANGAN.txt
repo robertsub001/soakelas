@@ -1,0 +1,20 @@
+ISI POSTMAN DI BODY RAW:
+{
+	"email" : "a@azs.com",
+	"nama" : "robert",
+	"tipe" : "0",
+	"password" : "pass",
+	"saldo": 100000,
+	"topup" : 1123444,
+	"judul" : "hilang",
+	"jenisLaporan" : "L",
+	"deskripsi" : "kasihan hilang",
+	"jenisBarang" : "HP",
+	"alamat" : "jl apa",
+	"tanggal" : "2020-04-04",
+	"kodepos" : "123456"
+}
+
+Keterangan:
+- parameter searchlaporan dan getkelurahan ditulis di url 
+- endpoint yang butuh apikey ditulis di url
